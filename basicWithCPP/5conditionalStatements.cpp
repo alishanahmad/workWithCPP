@@ -13,7 +13,7 @@ main()
     6-Nested conditional statement*/
 
     /*Here i need to use comparison operator (less than <, and greater then >)  which are binary operator
-    discussed in detailed in the file "6unrayBinaryOperator.cpp"*/
+    discussed in detailed in the file "copareson Operator file"*/
 
     int integer1 = 25, integer2 = 50, integer3 = 75;
 
