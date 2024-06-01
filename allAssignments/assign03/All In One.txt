@@ -1,0 +1,149 @@
+
+LAB-01-BASIC HEADINGS 
+
+01- Letter of First,Middle and Last Name
+02- Display Age and Weight
+03- Speed,Time and Distance
+04- Force, Area and Presure
+05- Sales prediction
+06- Testaurant bill
+07- Annual pay
+08- Ocean level
+09- Land calculation
+10- Stock commission
+11- Energy drink consumpition
+
+/**************************************************************************************/
+
+LAB-02-MAIN HEADINGS
+
+02 TO 07 ALGORITTHMIC WORKBENCH
+
+
+04 UNDER FLOW AND OVER FLOW
+07 DENOMINATION
+
+08 TO ONWARD programming challanges
+
+08 stadium capacity
+09 average rainfall
+10 box office
+11 calories per serving
+12 senior citizen property tax
+13 interest earned
+14 monthly payments
+15 pizza pi
+16 how many pizzas
+17 stock transaction program
+18 find unique problem
+
+/**************************************************************************************/
+
+PF LAB-03
+MAIN HEADINGS
+
+Startups.
+1-knowing the true value
+2-concept of greater or less than
+3-even odd numbers
+
+Tasks.
+1-magic date
+2-area of rectangle
+3-body mass index (BMI)
+4-mass and weight 
+5-time calculator
+6-bank charges
+7-shipping charges
+8-fat gram calculator
+9-sales commission calculator
+10-credit limit
+11-palindrome
+12-binary to decimal conversion
+13-geometry calculator
+
+/**************************************************************************************/
+
+LAB-04 MAIN HEADING
+
+01-SIMPLE HELP SYSTEM(IF,ELSE-IF,...DETAILS)
+02-POSITION OF FALLING OBJECT
+03-PAY CALCULATOR
+05-FIND THE WINNER
+06-EVEN AND ODD
+07-ASCENDINGN AND DESCENDING ORDER
+08-PC PRICE CALCULATOR
+09-FACTORY MANAGMENT
+
+
+/**************************************************************************************/
+
+LAB-05
+MAIN HEADINGS.
+
+STARTUP.(Print Numbers with While Loop) 
+01.(Reverse a Number)
+02.(Sum of digits)
+03.(Sum of Numbers) 
+04.(​Ocean Level) 
+05.(Sum the geometric series) 
+06.(Population) 
+07.(Hotel Occupancy) 
+08.(Palindrome) 
+09.(Binary to Decimal Conversion) 
+10.(Saving Account Balance) 
+
+/**************************************************************************************/
+
+LAB-06
+MAIN HEADING 
+
+01.(Factorial) 
+02.(The T Triangle )
+03.(InBetween Numbers) 
+04.(Fibonacci Series up to n number of terms)
+05.(Barchart) 
+06.(Barchart2) 
+07.(Take My Quiz)
+08.(using All Loops)
+09.(Triangle)
+10.(Diamond)
+
+/**************************************************************************************/
+
+
+MAIN HEADINGS OF LAB-07
+1. largest/smallest Array value
+2. Rainfall Statics
+3. Element Swapping
+4. Reverse Array Element
+5. Printing Even Elements 
+6. Merging Arrays
+7. Lottery Application
+8. Phone book
+9. Tic Tac Toe
+10. Sorting
+
+
+LAB-08
+MAIN HEADING 
+
+1.MARKUP
+2.FALLING DISTANCE
+3.KINETIC ENERGY
+4.PRESENT VALUE
+5.STAR SEARCH
+
+
+LAB-09 MAIN HEADINGS
+
+01-fluid to ounce
+02-monkey business
+03-2D array operations
+04-matrix multiplication
+05-matrix addition
+06-transose of a matrix
+07-function calling function
+08-function overloading
+09-recursion
+10-factorial
